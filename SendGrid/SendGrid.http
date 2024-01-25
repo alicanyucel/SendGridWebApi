@@ -1,0 +1,6 @@
+@SendGrid_HostAddress = http://localhost:5120
+
+GET {{SendGrid_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
